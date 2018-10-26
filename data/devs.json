@@ -23,4 +23,28 @@
         "profession": "Software Engineer"
     },
 
+    {  
+       "name": "Adeniyi Olawale",
+       "github": "waleaot",
+       "resident": "Nigeria",
+       "country": "Nigeria",
+       "gender": "Male",
+       "stack": "JavaScript, python, R, html, css",
+       "twitter": "waleAOT",
+       "url": "null",
+       "profession": "Statistician"
+    },
+
+    {
+
+        "name": "Amadikwa Joy N.",
+        "github": "treasurechristain",
+        "resident": "Nigeria",
+        "country": "Nigeria",
+        "gender": "Female",
+        "stack": "Python, Django, JavaScript, HTML, CSS",
+        "twitter": "amadikwajoyn",
+        "url": "amadikwajoy.name.ng",
+        "profession": "Computer Engineer"
+    },
 ]

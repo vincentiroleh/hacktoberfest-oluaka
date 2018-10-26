@@ -1,4 +1,4 @@
-# hacktoberfest-oluaka
+﻿# hacktoberfest-oluaka
 A curated list of Hacktoberfest Oluaka 2018 developers.
 
 ## Note:
@@ -73,12 +73,12 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add data/devs.json
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your-name> to Developers list"
 ```
 replacing `<your-name>` with your name.
 
