@@ -1,4 +1,4 @@
-# hacktoberfest-oluaka
+﻿# hacktoberfest-oluaka
 A curated list of Hacktoberfest Oluaka 2018 developers.
 
 ## Note:
