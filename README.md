@@ -56,7 +56,7 @@ Follow the steps above and you are done.
 
 ## Authors
 
-* **Vincent Iroleh** - *Initial work* - [iNidAName](https://github.com/vincentiroleh)
+* **Vincent Iroleh** - *Initial work* - [Iroleh](https://github.com/vincentiroleh)
 
 
 ## License
