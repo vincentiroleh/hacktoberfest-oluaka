@@ -9,5 +9,18 @@
         "twitter": "IrolehVincent",
         "url": "github.com/vincentiroleh",
         "profession": "Computer Engineer"
-    }
+    },
+
+    {
+        "name": "Erumaka Vera",
+        "github": "uchevera",
+        "resident": "Nigeria",
+        "country": "Nigeria",
+        "gender": "femae",
+        "stack": "JavaScript, HTML, CSS",
+        "twitter": "",
+        "url": "github.com/uchevera",
+        "profession": "Software Engineer"
+    },
+
 ]
