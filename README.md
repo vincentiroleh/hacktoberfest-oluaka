@@ -18,7 +18,7 @@ This is how you can add your profile
 
 * `fork` this `repo`
 * `clone` it to you local machine
-* open the [data](/data/dev.json) file
+* open the [data](/data/devs.json) file
 * Add yours in the format below
 * Send a `pull request` 🎉
 
