@@ -9,5 +9,18 @@
         "twitter": "IrolehVincent",
         "url": "github.com/vincentiroleh",
         "profession": "Computer Engineer"
-    }
+    },
+
+    {
+
+        "name": "Amadikwa Joy N.",
+        "github": "treasurechristain",
+        "resident": "Nigeria",
+        "country": "Nigeria",
+        "gender": "Female",
+        "stack": "Python, Django, JavaScript, HTML, CSS",
+        "twitter": "amadikwajoyn",
+        "url": "amadikwajoy.name.ng",
+        "profession": "Computer Engineer"
+    },
 ]
