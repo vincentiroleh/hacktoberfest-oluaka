@@ -16,11 +16,31 @@ Check out these articles on how to make your first PR
 #### Next
 This is how you can add your profile
 
-* `fork` this `repo`
-* `clone` it to you local machine
-* open the [data](/data/devs.json) file
+* `fork` this `repo` 
+* `clone` it to you local machine `git clone "url you just copied"`
+
+#### Create a branch
+Change to the repository directory on your computer (if you are not already there):
+
+```
+cd hacktoberfest-oluaka
+```
+Now create a branch using the `git checkout` command:
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+For example:
+```
+git checkout -b add-iroleh-vincent
+```
+(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+## Make necessary changes and commit those changes
+
+* open the [data](/data/devs.json) file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it at the bottom. Now, save the file.
+
 * Add yours in the format below
-* Send a `pull request` 🎉
 
 ```
   {
@@ -45,6 +65,42 @@ This is how you can add your profile
 **Gender**: This really have no importance, but feel free to add your<br/>
 **Resident**: Your Country of residence<br/>
 **Country**: Your Country of Origin
+
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+
+Add those changes to the branch you just created using the `git add` command:
+
+```
+git add Contributors.md
+```
+
+Now commit those changes using the `git commit` command:
+```
+git commit -m "Add <your-name> to Contributors list"
+```
+replacing `<your-name>` with your name.
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+```
+git push origin <add-your-branch-name>
+```
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+
+
+* Now Send a `pull request` 🎉
+
+
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+
 
 
 ## Contributing
