@@ -58,4 +58,13 @@
         "url": "amadikwajoy.name.ng",
         "profession": "Computer Engineer"
     },
+	{
+        "name": "Uche",
+        "github": "uchennaanya",
+        "resident": "Nigeria",
+        "country": "Nigeria",
+        "gender": "Male",
+        "stack": "JavaScript, HTML, CSS",
+        
+    },
 ]
